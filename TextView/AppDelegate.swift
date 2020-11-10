@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TextView
 //
-//  Created by Onur Albayrak on 06.11.20.
+//  Created by Onur on 06.11.20.
 //
 
 import UIKit
